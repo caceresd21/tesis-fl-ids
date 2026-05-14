@@ -1,0 +1,11 @@
+{
+  "archivo": "Friday-02-03-2018_TrafficForML_CICFlowMeter.csv",
+  "total_filas": 1048575,
+  "total_columnas": 80,
+  "clases": {
+    "Benign": 762384,
+    "Bot": 286191
+  },
+  "valores_infinitos": 2,
+  "columnas_con_nulos": 1
+}

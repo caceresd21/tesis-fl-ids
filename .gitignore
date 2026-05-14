@@ -1,0 +1,17 @@
+﻿# Datos - archivos grandes no van a GitHub
+datos/
+*.csv
+*.pcap
+
+# Entorno virtual
+env/
+
+# Archivos temporales Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

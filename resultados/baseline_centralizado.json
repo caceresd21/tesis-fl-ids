@@ -1,0 +1,11 @@
+{
+  "modelo": "Random Forest Centralizado",
+  "n_estimators": 100,
+  "f1_macro": 1.0,
+  "precision_macro": 1.0,
+  "recall_macro": 1.0,
+  "tiempo_entrenamiento_seg": 43.9,
+  "filas_entrenamiento": 835620,
+  "filas_prueba": 208905,
+  "features": 78
+}
