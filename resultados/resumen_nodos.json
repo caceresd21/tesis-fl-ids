@@ -1,0 +1,37 @@
+{
+  "nodo_1": {
+    "descripcion": "Área administrativa (poco Bot)",
+    "total": 208904,
+    "benign": 188014,
+    "bot": 20890,
+    "pct_bot": 10.0
+  },
+  "nodo_2": {
+    "descripcion": "Laboratorios (Bot moderado)",
+    "total": 208905,
+    "benign": 125343,
+    "bot": 83562,
+    "pct_bot": 40.0
+  },
+  "nodo_3": {
+    "descripcion": "Biblioteca y aulas (Bot bajo)",
+    "total": 208904,
+    "benign": 156678,
+    "bot": 52226,
+    "pct_bot": 25.0
+  },
+  "nodo_4": {
+    "descripcion": "Docentes (Bot moderado)",
+    "total": 208904,
+    "benign": 135788,
+    "bot": 73116,
+    "pct_bot": 35.0
+  },
+  "nodo_5": {
+    "descripcion": "Servicios (Bot alto)",
+    "total": 160849,
+    "benign": 104452,
+    "bot": 104452,
+    "pct_bot": 64.9
+  }
+}
