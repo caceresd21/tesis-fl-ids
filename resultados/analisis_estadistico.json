@@ -1,0 +1,8 @@
+{
+  "sin_restriccion": {
+    "descripcion": "Sin restricci\u00f3n (referencia)",
+    "f1_media": 0.9612,
+    "f1_std": 0.0,
+    "f1_min": 0.9612,
+    "f1_max": 0.9612,
+    "cumple_hipotesis": 
