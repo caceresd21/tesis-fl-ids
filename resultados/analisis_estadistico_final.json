@@ -1,0 +1,46 @@
+{
+  "sin_restriccion": {
+    "descripcion": "Sin restricci\u00f3n",
+    "mbps": null,
+    "f1_media": 0.9612,
+    "degradacion_vs_centralizado_pct": 3.88,
+    "diferencia_vs_referencia_pct": 0.0,
+    "cumple_hipotesis": true,
+    "viable_para_bolivia": true,
+    "repeticiones": 3,
+    "reproducible": true
+  },
+  "bandwidth_10mbps": {
+    "descripcion": "~10 Mbps",
+    "mbps": 10,
+    "f1_media": 0.9563,
+    "degradacion_vs_centralizado_pct": 4.37,
+    "diferencia_vs_referencia_pct": 0.49,
+    "cumple_hipotesis": true,
+    "viable_para_bolivia": true,
+    "repeticiones": 3,
+    "reproducible": true
+  },
+  "bandwidth_5mbps": {
+    "descripcion": "~5 Mbps",
+    "mbps": 5,
+    "f1_media": 0.955,
+    "degradacion_vs_centralizado_pct": 4.5,
+    "diferencia_vs_referencia_pct": 0.62,
+    "cumple_hipotesis": true,
+    "viable_para_bolivia": true,
+    "repeticiones": 3,
+    "reproducible": true
+  },
+  "bandwidth_1mbps": {
+    "descripcion": "~1 Mbps",
+    "mbps": 1,
+    "f1_media": 0.4107,
+    "degradacion_vs_centralizado_pct": 58.93,
+    "diferencia_vs_referencia_pct": 55.05,
+    "cumple_hipotesis": false,
+    "viable_para_bolivia": false,
+    "repeticiones": 3,
+    "reproducible": true
+  }
+}
